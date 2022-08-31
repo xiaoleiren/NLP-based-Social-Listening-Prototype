@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "873797be-6c89-4529-9008-c669be7b439c",
+    "data": [
+      {
+        "text": "A world where ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " can be prevented and ",
+        "userDefined": false
+      },
+      {
+        "text": "millions",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " of lives can be saved is possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eadba081-ce2d-448d-92f5-948fee2521e4",
+    "data": [
+      {
+        "text": "California",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " man with ",
+        "userDefined": false
+      },
+      {
+        "text": "drug-resistant",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " missing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfa82e71-f360-47f6-81d5-1284709fa71c",
+    "data": [
+      {
+        "text": "The World Health Organisation has raised concern about nearly ",
+        "userDefined": false
+      },
+      {
+        "text": "450,000",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " missing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nigeria",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45140cf1-4121-454f-845e-6685032d776e",
+    "data": [
+      {
+        "text": "Empowering Tunza franchise facilities to find ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "missing cases",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e115d70-fa3f-4e63-91b7-e63c8706f58f",
+    "data": [
+      {
+        "text": "Missing cases",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " are people living with ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " who aren\u0027t diagnosed, treated, or counted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "623ce6d0-54d1-42aa-8c5d-5b0edcf1b3e7",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "missing case",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f04ff8dc-4b27-46d6-924b-5de1f03a884d",
+    "data": [
+      {
+        "text": "I\u0027m involved as i lost my left lung because of ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "side effect",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5536f5ed-7ae0-4c86-be3c-f8552087f4a2",
+    "data": [
+      {
+        "text": "How long is the ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " prevention treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0798e3be-d133-45c4-8c37-7b714a89a7e4",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " million people are estimated to ",
+        "userDefined": false
+      },
+      {
+        "text": "fall",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ill with ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " each year, but around ",
+        "userDefined": false
+      },
+      {
+        "text": "3 million",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " get inadequate treatment, or no treatment at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f326aed9-a44f-4ea2-be63-9714bfd9e1fb",
+    "data": [
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " patients who are taking their treatment can live and work safely in the community",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4194cfb-d913-4636-90dd-9277dd09ffcf",
+    "data": [
+      {
+        "text": "If diagnosed with ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": ", continue and complete your full treatment to reduce ",
+        "userDefined": false
+      },
+      {
+        "text": "drug-resistant",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2e61d39-af2b-4506-8715-22deb984a3aa",
+    "data": [
+      {
+        "text": "Without treatment, inactive ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " can develop into active ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " disease and make you sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c906d436-50dd-49ff-983e-b69d010ede5e",
+    "data": [
+      {
+        "text": "If diagnosed with inactive ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": ", there are several short and convenient treatment options available that can help protect you and your loved ones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47013f81-ee90-4066-8f50-0e671f9230ac",
+    "data": [
+      {
+        "text": "412",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": ") treatment centres are present for ",
+        "userDefined": false
+      },
+      {
+        "text": "220",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " million people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd8eefa5-4c4d-4a9d-ac63-96a38e449fb5",
+    "data": [
+      {
+        "text": "chronicles its long-running fight to expand access to ",
+        "userDefined": false
+      },
+      {
+        "text": "bedaquiline",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "drug-resistant",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "706952a3-ec21-43cf-afcb-fad099c8499a",
+    "data": [
+      {
+        "text": "Thanks to them ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " million people were treated for ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f4c6897-1666-4d5b-95ad-ce807b53b634",
+    "data": [
+      {
+        "text": "Treatment time for ",
+        "userDefined": false
+      },
+      {
+        "text": "drug-resistant",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " has been slashed from ",
+        "userDefined": false
+      },
+      {
+        "text": "18 months to six",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcf4dc9a-ad6e-4d00-9bf6-34bf2efb4493",
+    "data": [
+      {
+        "text": "Finding a ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " testing center is now a code away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9b33a70-3b9d-402a-a96c-4cf010db3aba",
+    "data": [
+      {
+        "text": "he key to controlling ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " is to raise awareness about its symptoms \u0026 encourage sufferers to seek treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74762aba-4cac-408f-8627-8f33887dfaad",
+    "data": [
+      {
+        "text": "The Government has embarked on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": ") catch-up programmes as it continues to pursue shortened treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82e8e1e6-c8e0-4c21-9049-418154cc68c2",
+    "data": [
+      {
+        "text": "How a mobile diagnostic initiative helped ",
+        "userDefined": false
+      },
+      {
+        "text": "Nigeria",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " increase ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " case findings, treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b90da00-2341-4095-a45c-7e2c1edf4076",
+    "data": [
+      {
+        "text": "Visit the nearest health facility ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " screening and treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f23b409f-fbea-4682-8360-e29ea0bf27be",
+    "data": [
+      {
+        "text": "A new test will allow ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " to be detected earlier than ever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ebbf400-791b-4827-afaa-b69480c156a9",
+    "data": [
+      {
+        "text": "Universal ",
+        "userDefined": false
+      },
+      {
+        "text": "Drug Resistance",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " Test for ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": ", we intend to to give a complete genomic analysis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18f398a9-ac85-4a62-b07c-b0fac00fcbe8",
+    "data": [
+      {
+        "text": "we are seeing many diseases like ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " no longer responding to antibiotics and making a come back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b6df2f8-2744-411f-9d6f-a851e6db153d",
+    "data": [
+      {
+        "text": "Positive data from a recent novel study has indicated that pregnant women can be cured of ",
+        "userDefined": false
+      },
+      {
+        "text": "multidrug-resistant",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "351e31c3-8851-4116-8f5f-f108f0128e1b",
+    "data": [
+      {
+        "text": "Here are ",
+        "userDefined": false
+      },
+      {
+        "text": "five",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " things to know about treating people with drug-susceptible pulmonary ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "929c2d47-8ec4-405c-825f-45fbce1a3d3b",
+    "data": [
+      {
+        "text": "It\u0027s really wild how dramatically ",
+        "userDefined": false
+      },
+      {
+        "text": "drug-resistant",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " treatment has changed in the past decade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c67d8948-ad43-4610-8b2b-0db3a9941f70",
+    "data": [
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment would be seen as inhuman these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f612e3e-74d7-4094-991c-b8f5867cc51e",
+    "data": [
+      {
+        "text": "diagnosis and enrollment for ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment fell globally due to responses to the COVID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cff0f711-c019-4c10-9873-5cb42d91a859",
+    "data": [
+      {
+        "text": "it has supported the National ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " Program ",
+        "userDefined": false
+      },
+      {
+        "text": "since 2020",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " to transition ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      },
+      {
+        "text": " treatment services into the national social health insurance program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e1e75ef-0191-49d9-b5b1-d70da849eaeb",
+    "data": [
+      {
+        "text": "Ask your local clinic to put you back on ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment if you stopped taking your medication as soon as you can",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a818393-66e5-48b2-96a6-b91c865905c1",
+    "data": [
+      {
+        "text": "support to ensure successful ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment completion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94f3942a-f7fa-4aa2-ad2a-6dd9afeae99c",
+    "data": [
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "curable",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a94efe8-b2a3-48c5-9f93-198a8f186000",
+    "data": [
+      {
+        "text": "Support people in your care to complete their ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f3c3015-44dc-48ac-af4c-6301d7e21eb8",
+    "data": [
+      {
+        "text": "Tune into this ",
+        "userDefined": false
+      },
+      {
+        "text": "36th",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " ECHO Session and listen to the discussion on ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment interruption",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fc9bab8-9816-4371-af4d-ffda0b106ae6",
+    "data": [
+      {
+        "text": "She is currently involved in studies evaluating the use of digital adherence technologies to support ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da277dd-f34c-4d7c-b694-7dc7bdc86f33",
+    "data": [
+      {
+        "text": "I just got back to work from a long time ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70a392b4-fa27-45a8-b8d3-62344e9b80ba",
+    "data": [
+      {
+        "text": "he went for ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment and never came back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f599a46b-1359-477c-ad33-d7eb6fdef9e0",
+    "data": [
+      {
+        "text": "here\u0027s why the it is a big deal for ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment",
+        "userDefined": false
+      },
+      {
+        "text": " treatment of kids with ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "meta": "@TB_treatment",
+        "alias": "tb_treatment1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "value": "self-testing",
+    "synonyms": [
+      "self-testing",
+      "self test",
+      "self-testing kits",
+      "rapid HIV test",
+      "self-testing interventions",
+      "oral HIV",
+      "self-test",
+      "HIV Self-Testing Africa"
+    ]
+  },
+  {
+    "value": "HIV",
+    "synonyms": [
+      "HIV",
+      "AIDS"
+    ]
+  },
+  {
+    "value": "stigma and discrimination",
+    "synonyms": [
+      "stigma and discrimination",
+      "stigma",
+      "discrimination",
+      "trauma",
+      "fear of testing",
+      "negative attitude",
+      "negative reactions",
+      "stigmatization",
+      "stigmatizing",
+      "blame",
+      "black mark",
+      "lost face confidentiality",
+      "criminalize",
+      "violence",
+      "racism",
+      "xenophobia",
+      "ashamed",
+      "embarrassed",
+      "hunted"
+    ]
+  },
+  {
+    "value": "key/vulnerable populations",
+    "synonyms": [
+      "key population",
+      "vulnerable population",
+      "sex worker",
+      "call girl",
+      "hooker",
+      "whore",
+      "streetwalker",
+      "prostitute",
+      "gigolo",
+      "transgender",
+      "gay",
+      "homosexual",
+      "lesbian",
+      "bisexual",
+      "sex with men",
+      "prisoner",
+      "LGBTQ",
+      "migrants",
+      "MSM",
+      "heterosexual"
+    ]
+  }
+]

@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "fd703190-06fb-4a4b-8583-2922aa60fd8a",
+    "data": [
+      {
+        "text": "LLINS\"",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": "\" have become essential component of malaria control program countrywide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c45bc45-e06a-46dd-b2f6-45a988d1b1f0",
+    "data": [
+      {
+        "text": "The use of LLINS reduces contact btn the vector and humans, there by reducing the transmission of malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77a4e70b-ac17-4609-b394-b6e6220c4d94",
+    "data": [
+      {
+        "text": "LLINs are also safe for the  unborn children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b156e994-72ac-467f-8625-d8b18655b028",
+    "data": [
+      {
+        "text": "Everyone needs to sleep under LLINs every ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " in order to prevent malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01b70329-8cab-425b-a753-72ce15a26143",
+    "data": [
+      {
+        "text": "Benefits of LLINs use as protection for pregnant women against malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7472adbc-4755-4399-b137-45b2be501d43",
+    "data": [
+      {
+        "text": "LLINs work as both a physical \u0026 chemical barrier preventing mosquito from reaching their prey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "665524ef-5476-4a46-b008-fd20c4ea5679",
+    "data": [
+      {
+        "text": "Sleeping under a Long-Lasting Insecticide treated ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito Net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " (LLIN) protects you from getting malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2878ac1c-93a4-441b-a1da-de8c18ad6b6d",
+    "data": [
+      {
+        "text": "The National Malaria Control Programme says, it requires K",
+        "userDefined": false
+      },
+      {
+        "text": "26",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " billion to implement a new ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " mass distribution policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef6312ed-93e6-466d-9700-7143a0aaf862",
+    "data": [
+      {
+        "text": "Get this beautiful ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " for a sound sleep and malaria prevention",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0cdccc8-8d97-4c17-b39f-0f2b0fb75d7d",
+    "data": [
+      {
+        "text": "we still put ",
+        "userDefined": false
+      },
+      {
+        "text": "up",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": ", eliminate mosquito breeding grounds, and stock up on anti-malarial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76cc7968-003e-4365-b374-b3ab9d34b349",
+    "data": [
+      {
+        "text": "we have to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " for many sick children in orphanage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c9ebe9e-acfe-4732-944b-4a3aefd407d5",
+    "data": [
+      {
+        "text": "Pregnant women should be proud to use the LLINs responsibly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0240fc35-ba3a-4130-97bf-e50ee560711c",
+    "data": [
+      {
+        "text": "LLINs are effective and cost effective means of protection from malaria during pregnancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd54d3b7-822c-4679-8bd0-f210569e69f8",
+    "data": [
+      {
+        "text": "LLINs use as protection for pregnant women against malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95745c2f-cd5b-44f1-8c47-ce0a3fc3b040",
+    "data": [
+      {
+        "text": "protect your child against malaria by ensuring they sleep under a ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c5ee723-a080-4f7e-a8f2-17ace122c58a",
+    "data": [
+      {
+        "text": "Government of ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " provides Long Lasting ",
+        "userDefined": false
+      },
+      {
+        "text": "Insecticidal Nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " free of cost in Malaria high-risk areas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b5be50e-e492-472c-be88-a92065724ab5",
+    "data": [
+      {
+        "text": "Chase malaria out of your life by sleeping under LLINs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c187479a-c063-4768-a943-b137266aa2f7",
+    "data": [
+      {
+        "text": "malaria is endemic if people put up ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a766ba69-e2bc-4a9d-8279-ee1c94edc62d",
+    "data": [
+      {
+        "text": "use strong insecticides and ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " to kill mosquitoes because mosquitoes have recently evolved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59800a3d-ba66-4083-9121-66e31173cf37",
+    "data": [
+      {
+        "text": "how did millions of others get infected by malaria if they were sleeping under ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "611c8632-c86e-465b-a860-1dac704ea2e8",
+    "data": [
+      {
+        "text": "Use ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " and repellants, avoid water stagnation, and maintain cleanliness to stay safe from Malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f05b5111-7ef4-4046-8c59-dd738c8413d6",
+    "data": [
+      {
+        "text": "Malaria infection can be greatly reduced by using malaria net and timely treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a7e70e1-88c0-4eba-927e-b97a9534b553",
+    "data": [
+      {
+        "text": "I sleep under treated ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " for treating malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b60e6d4e-3783-46ca-9fe3-3d1c60ef6006",
+    "data": [
+      {
+        "text": "The Health ministry and Plan International are supporting the roll out of the nets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d5e4bbf-16d7-4ed7-9ed6-1e16b190e502",
+    "data": [
+      {
+        "text": "The City Council on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " said the nets were being given away starting July ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " as a way of combating malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b4eb653-19f9-4dab-b6f1-e01ee0823e7c",
+    "data": [
+      {
+        "text": "FREE ",
+        "userDefined": false
+      },
+      {
+        "text": "MOSQUITO NETS",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " FOR ",
+        "userDefined": false
+      },
+      {
+        "text": "VICTORIA",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " FALLS RESIDENTS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b78261b-0222-4e3b-a5f0-e18400f91181",
+    "data": [
+      {
+        "text": "lets embrace Mosquito repellants as another intervention of fighting Malaria besides ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0774fecf-fd5b-4b4e-98c8-a3c8363ad2de",
+    "data": [
+      {
+        "text": "almost ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "M antimalaria ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " went to people in need.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffae6e46-c637-451c-ae33-319ab0e1199a",
+    "data": [
+      {
+        "text": "More than ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " million ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " will be distributed door-to-door to combat malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad35fa2c-f4a6-45aa-980d-929d1783661e",
+    "data": [
+      {
+        "text": "We are now at the ",
+        "userDefined": false
+      },
+      {
+        "text": "Mosquito Nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " Distribution Campaign in the Cuanza Sul province, with the Ministry of Health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d9aa232-04ce-4621-8151-77f2a637a702",
+    "data": [
+      {
+        "text": "One",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " protects a family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "377707da-2954-4a37-b848-5106ed9295a6",
+    "data": [
+      {
+        "text": "recent donation of nets to the residents of Mosafejo Oworo community, we\u0027re assured that at least ",
+        "userDefined": false
+      },
+      {
+        "text": "150",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " families are sleeping safer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "583a7c57-df3a-44de-a171-a62aaf3d7ce4",
+    "data": [
+      {
+        "text": "Consult your doctor before taking any antimalarial tablets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac8a83c-7eb5-4ad2-b7e1-1315ece13f2d",
+    "data": [
+      {
+        "text": "Use ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": ", cover arms and legs and use insect repellent to prevent yourself from the bite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e37af257-03fa-4a15-a814-83fe100c38f3",
+    "data": [
+      {
+        "text": "So what are the ways to avoid malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7618d7a3-15a0-49e4-b2b9-1d799ef8759c",
+    "data": [
+      {
+        "text": "Today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " we distributed ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " to children of some partner schools to help prevent malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d217524c-1042-4cc7-a7be-4d80669cc35b",
+    "data": [
+      {
+        "text": "Proper use of the new nets leads to improved health and higher school attendance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b907abd1-ac46-4d3d-a265-69f8589d7521",
+    "data": [
+      {
+        "text": "Malaria can be fatal for children and sleeping under a net is the most effective way of preventing malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c5caef-8464-4621-9de9-00f379961020",
+    "data": [
+      {
+        "text": "invest in good ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " and repellant, you will say bye bye to malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ecf77c3-6172-4ca4-9091-a0647ac57f79",
+    "data": [
+      {
+        "text": "Good treated net, mosquito repellent and clean environment will solve your malaria problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "191e66f6-0135-4355-865f-a812ccad5cad",
+    "data": [
+      {
+        "text": "parasite prevalence drastically reduced due to the ",
+        "userDefined": false
+      },
+      {
+        "text": "insecticide net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb847379-4f5d-4173-a60e-e787a892bc49",
+    "data": [
+      {
+        "text": "UN now recommends that these new bednets should be used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02900ab8-5e47-4cf3-bfe9-910b807cdd2b",
+    "data": [
+      {
+        "text": "there was a reduction in malaria across ",
+        "userDefined": false
+      },
+      {
+        "text": "nigeria",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " thanks to the ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3d2a696-5083-4c93-8565-e4ad820392e6",
+    "data": [
+      {
+        "text": "new nets accepted by households due to observable reduction in mosquitoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ced53532-2c33-4bd0-af3e-8923d9708509",
+    "data": [
+      {
+        "text": "we need to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " for the safety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0dac435-7a3b-42e3-bbac-67caa8ecf35c",
+    "data": [
+      {
+        "text": "if we buy ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito nets",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " we can prevent children from malaria disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76e0843c-47a4-4e50-8e7c-0ea763edfa25",
+    "data": [
+      {
+        "text": "I started sleeping with ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "last month",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": " because of the malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99822ac3-dc88-4f3d-a818-5b69af7c9ecd",
+    "data": [
+      {
+        "text": "zero",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " malaria starts with the new net",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "535f3388-180e-43ee-b959-d51d85f62478",
+    "data": [
+      {
+        "text": "I need about ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito net",
+        "meta": "@mosquito_net_distribution",
+        "alias": "mosquito_net_distribution",
+        "userDefined": true
+      },
+      {
+        "text": " to prevent them from malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

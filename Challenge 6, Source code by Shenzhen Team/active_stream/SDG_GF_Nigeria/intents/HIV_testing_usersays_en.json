@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "f0748708-0c21-4ed5-ba09-9777655d8139",
+    "data": [
+      {
+        "text": "when you bring someone over home, first of all, go run ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba1dfb68-ce1d-48fb-be74-3107071b9125",
+    "data": [
+      {
+        "text": "Don\u0027t forget to book an STI and ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test for when you get home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d090c9a6-1270-4122-97b3-5d8548785869",
+    "data": [
+      {
+        "text": "got my ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hiv",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test result and i\u0027m pretty safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c285bd6-4fb3-432c-9036-825c33e96cca",
+    "data": [
+      {
+        "text": "Safe sex means having sex with your partner after you have both had an ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test and found that you are both negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b3cb1b1-910c-4dc4-92e5-6835a9d373d1",
+    "data": [
+      {
+        "text": "You need to share your ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test after the vax as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65a1b03f-33fa-41b3-b652-fa2fd7e95e81",
+    "data": [
+      {
+        "text": "I got an STD ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test at this planned parenthood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f362337-ad88-4433-89f4-fa1c62a80f54",
+    "data": [
+      {
+        "text": "When your Dad takes you for ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test and the Doctor said you should all listen attentively",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bec32da7-063b-4246-954b-5b07c6101273",
+    "data": [
+      {
+        "text": "Order a FREE ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test from ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ", click on the link and download our order form",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b58a8aa2-872d-4f2c-9a3a-fe91f4192b21",
+    "data": [
+      {
+        "text": "We are excited to announce you can now book your Free ",
+        "userDefined": false
+      },
+      {
+        "text": "Rapid HIV Test",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " online for CorkPRIDE via our website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae17968d-2fc6-49a1-9b1a-9dca688466d6",
+    "data": [
+      {
+        "text": "Take an ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and know  your status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37f9ef5-6f69-4efb-a3b2-f320fcbc970e",
+    "data": [
+      {
+        "text": "A fantastic scene between ",
+        "userDefined": false
+      },
+      {
+        "text": "Kheerat",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Ben",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " on the  bench as ",
+        "userDefined": false
+      },
+      {
+        "text": "Kheerat",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " encouraged Ben to get his ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35aef5b2-8f8b-4751-90ba-07f572195a1d",
+    "data": [
+      {
+        "text": "so glad they\u0027re showing scenes at a sexual health clinic, especially the ",
+        "userDefined": false
+      },
+      {
+        "text": "hiv",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test being done. it\u0027s so important",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce0f7ca6-a875-47e9-9fda-9121fa6ca096",
+    "data": [
+      {
+        "text": "Ben",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " getting the reminder about the ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test at the same time as seeing ",
+        "userDefined": false
+      },
+      {
+        "text": "Callum",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " on his way out to have a good time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90199824-7eab-44fa-9b5a-21223a758359",
+    "data": [
+      {
+        "text": "Rose",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " has to get an ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test because she had a blood transfusion and may have contracted ",
+        "userDefined": false
+      },
+      {
+        "text": "AIDS",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fff660c-fb91-41b6-a413-b5d98fd56cc3",
+    "data": [
+      {
+        "text": "People are really scared of ",
+        "userDefined": false
+      },
+      {
+        "text": "hiv",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " tests mbela. NDF has been doing this ",
+        "userDefined": false
+      },
+      {
+        "text": "hiv",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test ever since i can remember",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b317dd29-cfba-436e-8f3d-f729b5a1abaf",
+    "data": [
+      {
+        "text": "Each time you bring someone over, do a ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test around ",
+        "userDefined": false
+      },
+      {
+        "text": "20 minutes,",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " , you know their status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57e987f4-66d0-41e7-b07c-d34e41e70f29",
+    "data": [
+      {
+        "text": "Did you know you can have ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test kits at your home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a28d3189-59c9-4547-bb6e-575bde2c6c70",
+    "data": [
+      {
+        "text": "The ",
+        "userDefined": false
+      },
+      {
+        "text": "Rapid HIV Test",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " is a finger prick test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2550bc63-8f84-4d4e-9088-0a0b50e075a7",
+    "data": [
+      {
+        "text": "Check out our Free Rapid ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " Testing events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deaeddc4-42a2-4527-ab3b-f3c0ee11abff",
+    "data": [
+      {
+        "text": "Deep down I want the ka ",
+        "userDefined": false
+      },
+      {
+        "text": "20k",
+        "meta": "@sys.unit-length",
+        "alias": "unit-length",
+        "userDefined": false
+      },
+      {
+        "text": " but I fear that ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "378beeba-9218-49cd-ab1c-8181f92bf7c4",
+    "data": [
+      {
+        "text": "There is a healthy life after testing for ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf3ed50d-faa5-42c7-99f9-cc7a67e954e5",
+    "data": [
+      {
+        "text": "Visit your nearest clinic to get a free ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ef5aa4d-b80d-4347-9190-18c6e6fc5299",
+    "data": [
+      {
+        "text": "testing for ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " can be scary, but you\u0027ve got this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35055b57-2e65-43c3-9ea7-f59f12f21074",
+    "data": [
+      {
+        "text": "I believe knowing your ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " status is very important in these times we\u0027re living in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe98fa99-bd5d-4819-9616-e1029bbe8e48",
+    "data": [
+      {
+        "text": "I decided to take a move to go for an ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d9702c2-3d38-41e5-b59f-011ed563be5c",
+    "data": [
+      {
+        "text": "When You Are Waiting for Your ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "184a820f-f5b3-4d02-9e20-b0cd479c5b21",
+    "data": [
+      {
+        "text": "after catching the same disease twice in ",
+        "userDefined": false
+      },
+      {
+        "text": "4 months",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " you really need to take an ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1839b192-522b-44a2-8032-7b86574ad380",
+    "data": [
+      {
+        "text": "Do you guys go for ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test after having  raw sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ae9739e-b49a-4b31-ad9a-2b21f5919782",
+    "data": [
+      {
+        "text": "no matter who you are an ",
+        "userDefined": false
+      },
+      {
+        "text": "hiv",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test is right for you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7c0cf70-7b18-4999-b9d5-c717cde130ec",
+    "data": [
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test was more of a routine as I had been involved in several",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66964821-bdf7-47ea-b914-cf1e8fbc6bff",
+    "data": [
+      {
+        "text": "While we talked, he encouraged me to do my test for ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ead680d-a9c5-4269-a4d1-b348811a8239",
+    "data": [
+      {
+        "text": "full medical checkup including ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test is not unreasonable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9246dcc7-b8ce-4ce9-a2df-b72dfba3d1cf",
+    "data": [
+      {
+        "text": "I was demonstrating how to use the new ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test kits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99decfbc-1912-43ec-806b-d3f79a6b6ec4",
+    "data": [
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test are actually installing fear into the ones born with it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d6ab7fb-ac69-4097-bae5-5ded6183f3b5",
+    "data": [
+      {
+        "text": "come and get a free ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55c319d0-9cb6-4bbe-a924-f14b542a377c",
+    "data": [
+      {
+        "text": "Get pre \u0026 post test counselling, free ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test \u0026 free ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " medicine from HIV/AIDS center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8350da37-05c3-4b03-b494-a9824b60ef12",
+    "data": [
+      {
+        "text": "We Need To Do An ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " Test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfcac748-246a-48f0-b530-da92548600e9",
+    "data": [
+      {
+        "text": "Test ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " because ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "AIDS",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " is real and serious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb034889-00cc-4469-a0d5-e176c07343de",
+    "data": [
+      {
+        "text": "I shall continue being cautious on ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " with the test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60e077f2-cdec-42b6-b092-4815e907786e",
+    "data": [
+      {
+        "text": "I went for my ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " and the results came out negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a749dd6-e592-4a63-ac2d-d74ae3cef6b6",
+    "data": [
+      {
+        "text": "When last did you do an ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff928fbf-7d76-4443-a7cd-ede679bd9484",
+    "data": [
+      {
+        "text": "AfA runs the Anonymous Testing Service (ATS) and Mobile Testing Service (MTS) to increase accessibility and destigmatise ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d6d0568-dddd-4216-bab2-de7e440f3586",
+    "data": [
+      {
+        "text": "Voluntary testing rates among heterosexual men, women and MSM must be increased to end HIV transmission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afa1ebd8-ce9e-49d2-a44f-7744f527ee5f",
+    "data": [
+      {
+        "text": "ARE YOU AWARE that ",
+        "userDefined": false
+      },
+      {
+        "text": "HIV",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " is highly infectious in the early stages yet it may not be detected by an antibody test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6132e638-b57f-4e9e-8c1e-9748da505c64",
+    "data": [
+      {
+        "text": "Most young people base on negative results from a ",
+        "userDefined": false
+      },
+      {
+        "text": "rapid HIV test",
+        "meta": "@HIV_testing",
+        "alias": "hiv_testing",
+        "userDefined": false
+      },
+      {
+        "text": " to have unprotected sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

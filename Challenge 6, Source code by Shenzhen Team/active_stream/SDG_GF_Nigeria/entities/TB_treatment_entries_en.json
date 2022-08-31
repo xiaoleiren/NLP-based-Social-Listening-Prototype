@@ -1,0 +1,51 @@
+[
+  {
+    "value": "TB",
+    "synonyms": [
+      "TB",
+      "tuberculosis"
+    ]
+  },
+  {
+    "value": "drug resistance",
+    "synonyms": [
+      "drug resistance",
+      "continuous treatment",
+      "antimicrobial-resistant",
+      "AMR",
+      "Multidrug-resistant",
+      "curable",
+      "uncurable",
+      "multidrugresistant",
+      "MDR-TB extensively drugresistant",
+      "XDR-TB"
+    ]
+  },
+  {
+    "value": "new drugs",
+    "synonyms": [
+      "new drugs",
+      "bedaquiline",
+      "delamanid"
+    ]
+  },
+  {
+    "value": "side effects of drugs",
+    "synonyms": [
+      "side effect",
+      "aftereffect",
+      "reaction",
+      "nausea",
+      "vomiting",
+      "stomach pain",
+      "abandon treatment"
+    ]
+  },
+  {
+    "value": "missing case",
+    "synonyms": [
+      "missing peple",
+      "missing case"
+    ]
+  }
+]

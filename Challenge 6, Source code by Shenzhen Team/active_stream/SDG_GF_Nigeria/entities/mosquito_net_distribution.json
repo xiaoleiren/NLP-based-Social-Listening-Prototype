@@ -1,0 +1,9 @@
+{
+  "id": "9a433222-ca84-4404-b090-448b2293f4e9",
+  "name": "mosquito_net_distribution",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "a4aa40a2-3242-4a4f-ab27-a269f12e7b08",
+  "name": "HIV_testing",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

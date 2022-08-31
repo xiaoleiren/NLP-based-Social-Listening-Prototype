@@ -1,0 +1,9 @@
+{
+  "id": "628b7168-b8b6-478d-a681-7daa60b190d8",
+  "name": "TB_treatment",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
