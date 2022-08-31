@@ -85,8 +85,10 @@ For the source code, we used our own dataset, based on the Twitter API, to train
 
 https://dialogflow.cloud.google.com/#/agent/sdg-gf-nigeria-2-t9fi/intents
 
+dialogflow, if you want to try to use our prototype tool, please feel free to email me, I will add your gmail to get access to it.
+
 Contact
 -------------
 
-If you want to contribute to this project, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu. Many thanks : )
+If you have good idea or want to contribute to this project, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu. Many thanks : )
 
