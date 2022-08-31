@@ -62,3 +62,24 @@ Methodology: It is a challenge to effectively and systematically assess the effe
 
 ---------------------
 ![image](https://github.com/xiaoleiren/NLP-based-Social-Listening-Prototype/blob/main/SDG%20SC%20Images/SDG_W4_PRE-v0.4.pptx-3.png)
+
+Details:
+---------------------
+We have looked through the WHY and WHAT of the custom datasets, HOW on starting social big data analysis with real world examples relavant to GF and lastly the roadmaps.
+
+Why 
+- Accessible social big data analytics on the internet were made for marketing analysis that  the language model is focused on commercial and general domains. Therefore, GF couldn’t sense important and relevant keywords that GF wants to detect. 
+
+What
+- Thus, It is necessary for GF to make custom dataset that fits GF’s needs. In this project, our team selected three sample intervention topics to address the whole methodology; accessible HIV testing, continuous TB treatment, and Malaria prevention with the mosquito nets. Each of the topic gains the highest statistical attentions in The Data Explorer, GF’s data platform.
+
+How
+- We firstly handpicked entity-synonyms list from GF’s reports, news, and twitters relevant to the three topics. With the initial entities, we filtered relevant twitter post to further expand the entity list and cleanse the post to use it as corpus. Then we use the entity and the corpus to train NLP model. In result, the model can detect relevant and similar keywords and understand the contents of the post and categorize it into one of three topics.
+- To closely measure how much the twitter post is relevant to the intervention topic, post-processing model with scoring algorithm is necessary. It often uses the frequency of the relevant keywords appeared in the post however it can widely varies according to the requirements and this project doesn’t covers it as it requires major engagements of GF.
+
+Data Roadmap
+- The entity and the corpus made for this project can expand its usage to improving GF employee’s work efficiency by applying it to in-company search engine, build chatbots to instantly respond requests from different time zone, and connects the chatbot with BI, RPA, ERP to automate working process using natural langauge. Plus, It can also be used to franchise its innovation to other NGO’s who wants to make similar innovation efficiently by reusing the common corpus and changing the entity list more relevant to their domain.
+
+
+
+
