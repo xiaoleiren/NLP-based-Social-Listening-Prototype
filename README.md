@@ -1,14 +1,13 @@
 # NLP-based-Social-Listening-Prototype
 
-Final Report – Challenge 6 (Shenzhen)
 
 Using social listening approaches to understand impact of Global Fund activities on raising awareness efforts around HIV, TB and Malaria
 
 Team members: Hyungmin Lee, Chen-Chun Hsia, Syuanying Lin, Jiaxi Zhang
 Coach: Xiaolei Ren
 
-SDG Summer School
-University of Geneva
+SDG Summer School,
+University of Geneva,
 2022
 
 Over the millennia, infectious diseases have changed and evolved again, causing mankind great suffering. The "Big Three" infectious diseases, which include tuberculosis, malaria, and HIV/AIDS, are among the most deadly infections in the world since they cause the most infections and fatalities each year (Makam et al., 2021). The Global Fund has been working and making contributions to the battle against these three fatal diseases in light of these frightening circumstances. 
