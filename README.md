@@ -44,9 +44,11 @@ https://developer.twitter.com/en/docs/twitter-api/annotations/overview
 https://developer.twitter.com/en/docs/tutorials/post-processing-twitter-data-with-the-google-cloud-platform
 
 A campaign by WHO to raise the awareness of global antimicrobial resistance:
+
 https://www.who.int/news-room/events/detail/2020/11/18/default-calendar/world-antimicrobial-awareness-week-2020
 
 World Antimicrobial Awareness Week:
+
 https://www.theglobalfund.org/en/news/2022/2022-03-22-global-fund-calls-for-renewed-urgency-in-fight-to-end-tb/
 
 
@@ -90,5 +92,5 @@ dialogflow, if you want to try to use our prototype tool, please feel free to em
 Contact
 -------------
 
-If you have good idea or want to contribute to this project, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu. Many thanks : )
+If you have good idea or want to contribute to this project, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@uta.edu. Many thanks : )
 
