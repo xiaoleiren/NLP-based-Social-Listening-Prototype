@@ -81,5 +81,12 @@ Data Roadmap
 - The entity and the corpus made for this project can expand its usage to improving GF employee’s work efficiency by applying it to in-company search engine, build chatbots to instantly respond requests from different time zone, and connects the chatbot with BI, RPA, ERP to automate working process using natural langauge. Plus, It can also be used to franchise its innovation to other NGO’s who wants to make similar innovation efficiently by reusing the common corpus and changing the entity list more relevant to their domain.
 
 
+For the source code, we used our own dataset, based on the Twitter API, to train a number of different NLP models, and after training and testing, unfrtunately, we found that these models were not effective. So after further study, we used an NLP model provided in an online platform - google dialog flow cloud to finish this project.
 
+https://dialogflow.cloud.google.com/#/agent/sdg-gf-nigeria-2-t9fi/intents
+
+Contact
+-------------
+
+If you want to contribute to this project, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu. Many thanks : )
 
