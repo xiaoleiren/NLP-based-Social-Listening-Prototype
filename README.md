@@ -4,7 +4,7 @@
 
 Using social listening approaches to understand impact of Global Fund activities on raising awareness efforts around HIV, TB and Malaria
 
-Team members: Hyungmin Lee, Chen-Chun Hsia, Syuanying Lin, Jiaxi Zhang
+Team members: Hyungmin Lee, Chen-Chun Hsia, Syuanying Lin, Jiaxi Zhang,
 Coach: Xiaolei Ren
 
 SDG Summer School,
