@@ -95,9 +95,28 @@ ReadMe
 Our group did some experiments during the SDG summer school.
 We ended up doing some experiments on Google Dialogflow. But Dialogflow requires a google account to access the online data.
 
-The code included in Github is to track tweets about specific topics by tracking the keywords we are interested in. Structure：
-![image](https://user-images.githubusercontent.com/30956889/207611658-ed604b84-f656-47b0-aaf1-dfe3e767b081.png)
+The code included in Github is to track tweets about specific topics by tracking the keywords we are interested in. 
 
+Structure：
+|-- Source code
+|   |-- SDG_GF_Nigeria
+|   |-- active_stream 
+|       |--- annotation.py
+|       |--- classification.py
+|       |--- credentials.py
+|       |--- dbconnect.py
+|       |--- monitor.py
+|       |--- streaming.py
+|       |---text_processing.py
+|   |-- static
+|   |-- templates
+|   |-- app.py
+|
+|-- Dataset
+|   |-- WBS_SDG.xlsx
+|
+|-- LICENSE
+|-- README.md
 
 ---------------------------------------------------------------------------------------------------------------------------
 The Twitter streaming API allows us to track tweets about a specific topic by tracking user-defined keywords. All tweets that contain a keyword can be accessed. Keywords allow for crude adjustments of precision/recall tradeoffs. We build a dataset (WBS_SDG.xlsx) including all (or the most useful) keywords a priori.
