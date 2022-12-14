@@ -1,18 +1,15 @@
 # Active learning support for targeted Twitter stream
 
+Our group did some experiments during the SDG summer school.
+We ended up doing some experiments on Google Dialogflow. But Dialogflow requires a google account to access the online data.
+
+The code included in Github is to track tweets about specific topics by tracking the keywords we are interested in. 
 
 
 ## About
 
-The Twitter streaming API allows to track tweets about a specific topic by
-tracking user defined keywords. All tweets that contain a keyword can be
-accessed (as long as the volume is lower than 1% of total stream). However,
-tracking a topic via a keyword has two major disadvantages:
+The Twitter streaming API allows us to track tweets about a specific topic by tracking user-defined keywords. All tweets that contain a keyword can be accessed. Keywords allow for crude adjustments of precision/recall tradeoffs. We build a dataset (WBS_SDG.xlsx) including all (or the most useful) keywords a priori.
 
-* Keywords allow for crude adjustments of precision / recall tradeoffs. In other
-    words in many cases it has poor classification performance
-* A researcher / user often does not think of all (or the most useful) keywords
-    a priori.
 
 This system is aimed to build a streaming interface that allows the user to
 obtain a fine tuned stream that maximizes the number of relevant tweets
