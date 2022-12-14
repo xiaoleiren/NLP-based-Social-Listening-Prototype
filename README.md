@@ -122,9 +122,9 @@ Structure：
 The Twitter streaming API allows us to track tweets about a specific topic by tracking user-defined keywords. All tweets that contain a keyword can be accessed. Keywords allow for crude adjustments of precision/recall tradeoffs. We build a dataset (WBS_SDG.xlsx) including all (or the most useful) keywords a priori.
 
 Dependencies:
-1) See conda_environment.yml for all dependencies in the conda package manager format
-2) English language model for spaCy ($ python -m spacy download en)
-3) Mongodb (listening on localhost:27017 which is default setting when installing mongodb)
+1) See ```conda_environment.yml``` for all dependencies in the conda package manager format
+2) English language model for spaCy (```$ python -m spacy download en```)
+3) Mongodb (```listening on localhost:27017``` which is default setting when installing mongodb)
 4) Python >3.0 installed.
 
 Twitter Access:
@@ -136,7 +136,7 @@ Alright, now we know the App Key and the App Token.
 How to run:
 
 Put your twitter credentials in a file named credentials.py of the following format:
-
+```
 credentials = {"coll_1": {
         "access_token": "...",
         "access_token_secret": "...",
@@ -144,15 +144,15 @@ credentials = {"coll_1": {
         "consumer_key": "...",
     }
 }
-
+```
 Start the backend with:
-python app.py
+```python app.py```
 
 Monitor status with:
-tail -f debug.log
+```tail -f debug.log```
 
 Then open a browser and navigate to:
-localhost:5000
+```localhost:5000```
 
 All code is in active_stream.
 
