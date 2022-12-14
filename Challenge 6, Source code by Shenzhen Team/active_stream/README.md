@@ -1,8 +1,6 @@
 # Active learning support for targeted Twitter stream
 
 
-![The Active Stream interface](active_stream_interface.png)
-
 
 ## About
 
